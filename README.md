@@ -23,19 +23,6 @@ A Machine Learning-based web application that detects crop diseases from images 
 
 ---
 
-## Project Structure
-
-
-crop_disease/
-│── app.py # Main application
-│── train.py # Model training script
-│── requirements.txt # Dependencies
-│── class_names.json # Class labels
-│── .gitignore
-│── models/ (recommended)
-
----
-
 ## Installation & Setup
 
 ### 1. Clone the repository
