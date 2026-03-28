@@ -1,0 +1,9 @@
+streamlit
+tensorflow==2.13.0
+numpy
+pillow
+fastapi
+uvicorn
+python-magic
+python-multipart
+matplotlib

@@ -1,0 +1,5 @@
+cropenv/
+__pycache__/
+*.pyc
+Crop_Diseases/
+
